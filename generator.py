@@ -114,7 +114,7 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "Enter prefix of the number"))
         self.label_3.setText(_translate("MainWindow", "Enter amount of digit to be randomize"))
         self.label_4.setText(_translate("MainWindow", "Enter the name of contacts"))
-        self.label_5.setText(_translate("MainWindow", "Enter the name of contacts"))
+        self.label_5.setText(_translate("MainWindow", "Enter the name of folder"))
         self.pushButton.setText(_translate("MainWindow", "Generate"))
         self.menuFile.setTitle(_translate("MainWindow", "File"))
         self.actionNew.setText(_translate("MainWindow", "New"))
